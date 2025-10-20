@@ -1,4 +1,4 @@
-This database file is used in below lesson
+This database file is used in below lessons
 
 ```
 https://edu2skill.wordpress.com/course/react-with-vite-custom-css/getting-data-from-database-and-display-on-users-application-react-vite-customcss/
